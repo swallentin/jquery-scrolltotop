@@ -1,12 +1,12 @@
 {
   "name": "jquery-scrolltotop",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/swallentin/jquery-scrolltotop",
   "authors": [
     "Stephan Wallentin <stephan.wallentin@gmail.com>"
   ],
   "description": "A simple jQuery plugin for scrolling to the top of a document (body/html)",
-  "main": "dist/jquery.scrolltotop.js",
+  "main": "dist/jquery-scrolltotop.js",
   "keywords": [
     "jquery",
     "plugin",
@@ -16,6 +16,6 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
+    "bower_components"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "jquery-scrolltotop",
   "title": "jQuery ScrollToTop",
-  "description": "A simple jQuery plugin that allows triggering of scroling to top of document (html/body).",
-  "version": "0.1.1",
+  "description": "A simple jQuery plugin that allows triggering of scrolling to top of document (html/body).",
+  "version": "0.1.2",
   "homepage": "https://github.com/swallentin/jquery-scrolltotop",
   "author": {
     "name": "Stephan Wallentin",
@@ -22,5 +22,9 @@
   "dependencies": {
     "jquery": "*"
   },
-  "keywords": []
+	"keywords": [
+		"jquery",
+		"plugin",
+		"scrolltotop"
+	]
 }
