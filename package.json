@@ -1,24 +1,17 @@
 {
-  "name": "jquery-scrolltotop",
-  "version": "0.0.0",
-  "description": "A simpl jQuery plugin for scrolling to the top of a document (body/html).",
-  "main": "index.js",
+  "name": "jquery-plugin",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/swallentin/jquery-scrolltotop.git"
-  },
-  "keywords": [
-    "jquery",
-    "scrolltotop",
-    "plugin"
-  ],
-  "author": "Stephan Wallentin",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/swallentin/jquery-scrolltotop/issues"
-  },
-  "homepage": "https://github.com/swallentin/jquery-scrolltotop"
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt": "~0.4.2"
+  }
 }
